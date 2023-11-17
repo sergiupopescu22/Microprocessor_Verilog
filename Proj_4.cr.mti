@@ -1,0 +1,57 @@
+{C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/instructions.sv} {1 {vlog -work work -sv -stats=none {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/instructions.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+
+Top level modules:
+	--none--
+
+} {} {}} {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor.sv} {1 {vlog -work work -sv -stats=none {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module microprocessor
+
+Top level modules:
+	microprocessor
+
+} {} {}} {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/FSM.sv} {1 {vlog -work work -sv -stats=none {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/FSM.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling package FSM_sv_unit
+-- Compiling module FSM
+
+Top level modules:
+	FSM
+
+} {} {}} {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ALU.sv} {1 {vlog -work work -sv -stats=none {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ALU.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ROM.sv} {1 {vlog -work work -sv -stats=none {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ROM.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ROM
+
+Top level modules:
+	ROM
+
+} {} {}} {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor_n_memory.sv} {1 {vlog -work work -sv -stats=none {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor_n_memory.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module microprocessor_n_memory
+
+Top level modules:
+	microprocessor_n_memory
+
+} {} {}} {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/SRAM.sv} {1 {vlog -work work -sv -stats=none {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/SRAM.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SRAM
+
+Top level modules:
+	SRAM
+
+} {} {}} {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/RF.sv} {1 {vlog -work work -sv -stats=none {C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/RF.sv}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module RF
+
+Top level modules:
+	RF
+
+} {} {}}

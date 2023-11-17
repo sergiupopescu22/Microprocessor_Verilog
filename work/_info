@@ -1,0 +1,232 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.1
+vALU
+Z0 DXx6 sv_std 3 std 0 22 AD7iAPLo6nTIKk<N0eo=D3
+Z1 !s110 1698769130
+!i10b 1
+!s100 OGjcMac0k;:M33z[Q8Ne93
+IX`9VanIRkaVbM@840144V2
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+!s105 ALU_sv_unit
+S1
+Z3 dC:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4
+w1698658411
+8C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ALU.sv
+FC:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ALU.sv
+L0 1
+Z4 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z5 !s108 1698769129.000000
+!s107 C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ALU.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ALU.sv|
+!i113 1
+Z6 o-work work -sv
+Z7 tCvgOpt 0
+n@a@l@u
+vFSM
+R0
+DXx4 work 11 FSM_sv_unit 0 22 EfTihnnic=2mgBbn5_P@42
+R2
+r1
+!s85 0
+31
+!i10b 1
+!s100 @O?N;LSLTECkHhncCiE732
+If2`]DA6>6zo<4:kU>g_9i3
+!s105 FSM_sv_unit
+S1
+R3
+Z8 w1698697196
+Z9 8C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/FSM.sv
+Z10 FC:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/FSM.sv
+L0 32
+R4
+Z11 !s108 1698769130.000000
+Z12 !s107 instructions.sv|C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/FSM.sv|
+Z13 !s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/FSM.sv|
+!i113 1
+R6
+R7
+n@f@s@m
+XFSM_sv_unit
+R0
+VEfTihnnic=2mgBbn5_P@42
+r1
+!s85 0
+31
+!i10b 1
+!s100 TM6>8B<Q;?5KHAROg=`BI2
+IEfTihnnic=2mgBbn5_P@42
+!i103 1
+S1
+R3
+R8
+R9
+R10
+Finstructions.sv
+Z14 L0 28
+R4
+R11
+R12
+R13
+!i113 1
+R6
+R7
+n@f@s@m_sv_unit
+Xinstructions_sv_unit
+R0
+R1
+!i10b 1
+!s100 c80YT4OS@W@CdTJ;fSLVL1
+IefjnX:m1gTU_3?7D:HZBJ1
+VefjnX:m1gTU_3?7D:HZBJ1
+!i103 1
+S1
+R3
+w1698675724
+8C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/instructions.sv
+FC:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/instructions.sv
+R14
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/instructions.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/instructions.sv|
+!i113 1
+R6
+R7
+vmicroprocessor
+R0
+R1
+!i10b 1
+!s100 `7m`Dl@K0OLI0MA9`l<k]3
+Il32gWiXDlCAz>S:eg[c;Q3
+R2
+!s105 microprocessor_sv_unit
+S1
+R3
+w1698701755
+8C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor.sv
+FC:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor.sv
+R14
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor.sv|
+!i113 1
+R6
+R7
+vmicroprocessor_n_memory
+R0
+R1
+!i10b 1
+!s100 mV2M^D`3X18jEG1dVanWm3
+I6QLM;`0O3baGEi0]ORzYO2
+R2
+!s105 microprocessor_n_memory_sv_unit
+S1
+R3
+w1698701859
+8C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor_n_memory.sv
+FC:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor_n_memory.sv
+R14
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor_n_memory.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/microprocessor_n_memory.sv|
+!i113 1
+R6
+R7
+vRF
+R0
+R1
+!i10b 1
+!s100 Ai`iULbO>oYLKdJAbXDQk3
+IPUBz><QZ8Z:2MA4dXZT^30
+R2
+!s105 RF_sv_unit
+S1
+R3
+w1698658433
+8C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/RF.sv
+FC:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/RF.sv
+L0 1
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/RF.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/RF.sv|
+!i113 1
+R6
+R7
+n@r@f
+vROM
+R0
+R1
+!i10b 1
+!s100 @=We_3?h:J8YNnz]YL7X12
+IjQIW65:1POJWg05n73klz1
+R2
+!s105 ROM_sv_unit
+S1
+R3
+w1697062419
+8C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ROM.sv
+FC:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ROM.sv
+R14
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ROM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/ROM.sv|
+!i113 1
+R6
+R7
+n@r@o@m
+vSRAM
+R0
+!s110 1698769129
+!i10b 1
+!s100 o:BLJ[ZNARd?;V>R_^O>d0
+IEc@F?8<Pgo=2zV:OLjg6i1
+R2
+!s105 SRAM_sv_unit
+S1
+R3
+w1698695318
+8C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/SRAM.sv
+FC:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/SRAM.sv
+R14
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/SRAM.sv|
+!s90 -reportprogress|300|-work|work|-sv|-stats=none|C:/Users/sergi/Desktop/Master Year 1/Digital Design/Project_4/SRAM.sv|
+!i113 1
+R6
+R7
+n@s@r@a@m
